@@ -24,18 +24,20 @@ width:150px;
 float: left
 }
 </style>
+<img src="https://image3.mouthshut.com/images/imagesp/925004501s.png" height="100" width="100"/>&nbsp;
+<h1 align="center">WELCOME TO HDFC</h1>
 <nav>
 <ul>
 <li><a href="home.jsp">Home</a></li>
 <li><a href="login.jsp">Login</a></li>
 <li><a href="edit.jsp">Edit_profile</a></li>
  <li><a href="transfer.jsp">Transfer_money</a></li>
- <li><a href="balance.jsp">Balance_Enquiry</a></li>
+ <li><a href="balance">Balance_Enquiry</a></li>
  <li><a href="changePassword.jsp">changePassword</a>
  <li><a href="logout">logout</a>
 </ul>
 </nav>
-
+<br><br>
 </div>
 
 </form>

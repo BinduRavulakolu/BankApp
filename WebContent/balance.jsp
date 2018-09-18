@@ -9,6 +9,6 @@
 </head>
 <body>
 <%@include file="header.jsp" %>
-<h1>${sessionScope.customer.account.balance}</h1>
+<h1>${requestScope.balance}</h1>
 </body>
 </html>

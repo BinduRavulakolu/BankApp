@@ -12,7 +12,7 @@
 <%@include file="header.jsp" %>
 <form action="transfer" method="post">
 <label>From Account :</label>
-<input type="number" value="${sessionScope.customer.account.accountId}" name="fromAccount"/>
+<input type="number" value="${sessionScope.customer.account.accountId}" readonly name="fromAccount"/>
 <br><br>
 <label>To Account :</label>
 <input type="number" name="toAccount"/>
